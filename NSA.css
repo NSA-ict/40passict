@@ -1,0 +1,101 @@
+*
+        {
+            margin:00px;
+            padding: 00px;
+            
+        }
+        
+
+        /* this is demo project ds<trlh; */
+        /* don't edit this portion container; */
+        /* NSA student ID c a r d ; */
+
+        
+        .container
+        {
+            height: 100vh;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            box-sizing: border-box;
+            flex-direction: row;
+
+            
+
+        }
+        
+        /* this is for background photo size & position; */
+        
+        .back
+        {
+            
+            height: 400px;
+            width:490px;
+            position: relative;
+            background-image:url('idbackgroundupdate.jpg');
+            background-size: 490px 400px;
+            background-repeat: no-repeat;
+        }
+        
+
+        /* this is for stamp image; */
+        
+        
+
+        .tab {padding-right:30px;}
+
+         /*this is for idphoto size and position; */
+
+        
+       
+
+         .p1{
+            position: absolute;
+            top: 185px;
+            left: 220px;
+            color:rgb(19, 33, 110);
+            font-size: 10px;
+            font-weight: bolder;
+            font-size: 15px;
+        }
+
+        .p2{
+            position: absolute;
+            top: 175px;
+            left: 220px;
+            color:rgb(19, 33, 110);
+            font-size: 10px;
+            font-weight: bolder;
+            font-size: 15px;
+        }
+
+        .p3{
+            position: absolute;
+            top: 195px;
+            left: 220px;
+            color:rgb(19, 33, 110);
+            font-size: 10px;
+            font-weight: bolder;
+            font-size: 15px;
+        }
+
+        
+        
+
+    
+        /* this is for end text; */
+        
+        .endstickfoot
+        {
+            position: absolute;
+            top: 600px;
+            text-transform:capitalize;
+            font-size: 5px;
+            font-weight: bold;
+            text-emphasis: spacing;
+            margin-left: 200px;
+            cursor: not-allowed;
+        }
+        
